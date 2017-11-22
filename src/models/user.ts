@@ -1,0 +1,7 @@
+export class User {
+  id: number;
+  userName: string;
+
+  constructor(id: number, userName: string) {}
+
+}
